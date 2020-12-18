@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97207126654",
+    "firebase_url": "https://kitcart-7cd55.firebaseio.com",
+    "project_id": "kitcart-7cd55",
+    "storage_bucket": "kitcart-7cd55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97207126654:android:71cf8f7571fe15c229a62f",
+        "android_client_info": {
+          "package_name": "com.webtekdigital.kitcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97207126654-4d64c46nleck3n62d3q88a8bj7c1an8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdOQRbtjrw27Huv2YAmv3dOUER7jrGDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97207126654-4d64c46nleck3n62d3q88a8bj7c1an8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
